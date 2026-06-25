@@ -91,7 +91,7 @@ export const commandAliases = {
     'userinfo': 'userinfo',
     'whois': 'userinfo',
     'ui': 'userinfo',
-    'demand: 'userinfo', 
+    'demand : 'userinfo', 
     
     'serverstats': 'serverstats',
     'ss': 'serverstats',
